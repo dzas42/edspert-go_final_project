@@ -1,0 +1,4 @@
+vendor
+.idea
+app.env
+tmp
